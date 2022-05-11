@@ -1,0 +1,19 @@
+{
+  "name": "dd-curio-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js",
+    "encode": "java -jar libs\\DDSaveEditor\\DDSaveEditor.jar encode -o bin\\persist.curio_tracker.json bin\\curio_tracker.json",
+    "build": "npm run generate && npm run encode"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "console-log-colors": "^0.2.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
