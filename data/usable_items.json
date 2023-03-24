@@ -1,0 +1,17 @@
+{
+  "shovel": "supply",
+  "firewood": "supply",
+  "bandage": "supply",
+  "antivenom": "supply",
+  "skeleton_key": "supply",
+  "medicinal_herbs": "supply",
+  "torch": "supply",
+  "holy_water": "supply",
+  "dog_treats": "supply",
+  "laudanum": "supply",
+  "the_blood": "estate",
+  "the_cure": "estate",
+  "snake_scale": "estate",
+  "spice": "supply",
+  "provision": "provision"
+}

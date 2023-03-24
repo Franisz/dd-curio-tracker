@@ -10,9 +10,6 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "console-log-colors": "^0.2.3"
-  },
   "dependencies": {
     "dotenv": "^16.0.0"
   }
